@@ -14,10 +14,6 @@ d) Les gossips
 e) Les tags
 f) Les messages privés
 
-git clone
-> bundle install à la racine du projet
-> rails db:seed pour seeder avec Faker
-> rails console pour tester le projet
 
-Bon courage pour la correction, soyez cool svp ;)
+--> git clone --> bundle install à la racine du projet --> rails db:seed pour seeder avec Faker --> rails console pour tester le projet
 
