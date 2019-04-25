@@ -14,7 +14,10 @@ d) Les gossips
 e) Les tags
 f) Les messages privés
 
-Ne pas oublier de bundle install
+git clone
+> bundle install à la racine du projet
+> rails db:seed pour seeder avec Faker
+> rails console pour tester le projet
 
-Bon courage pour la correstion, soyez cool svp ;)
+Bon courage pour la correction, soyez cool svp ;)
 
